@@ -39,12 +39,12 @@
           "id": 2003,
           "ingredients": [
             "ramen noodles",
-            "pork broth",
-            "sliced pork",
+            "meat broth",
+            "sliced meat",
             "green onions",
             "bean sprouts"
           ],
-          "cooking_method": " Prepare the broth. Cook the noodles. Slice the pork. Chop the green onions. Assemble the ramen bowl. Serve hot",
+          "cooking_method": " Prepare the broth. Cook the noodles. Slice the meat. Chop the green onions. Assemble the ramen bowl. Serve hot",
           "rating": 4.7
         }
       ]
@@ -114,13 +114,13 @@
           "name": "Tonkatsu",
           "id": 2008,
           "ingredients": [
-            "pork loin",
+            "meat loin",
             "flour",
             "eggs",
             "panko bread crumbs",
             "cabbage"
           ],
-          "cooking_method": " Pound the pork loin until it is evenly thin. Season the pork with salt and pepper. Dredge the pork in flour, shaking off any excess. Dip the pork into beaten eggs. Coat the pork in panko bread crumbs. Deep-fry the pork until golden brown and cooked through. Serve with shredded cabbage and tonkatsu sauce",
+          "cooking_method": " Pound the meat loin until it is evenly thin. Season the meat with salt and pepper. Dredge the meat in flour, shaking off any excess. Dip the meat into beaten eggs. Coat the meat in panko bread crumbs. Deep-fry the meat until golden brown and cooked through. Serve with shredded cabbage and tonkatsu sauce",
           "rating": 4.2
         },
         {
@@ -216,13 +216,13 @@
           "name": "Tonkatsu",
           "id": 2014,
           "ingredients": [
-            "pork cutlets",
+            "meat cutlets",
             "flour",
             "eggs",
             "panko bread crumbs",
             "vegetable oil"
           ],
-          "cooking_method": " Season the pork cutlets with salt and pepper. Coat the cutlets in flour, dip in beaten eggs, and coat in panko bread crumbs. Heat vegetable oil in a frying pan over medium heat. Fry the cutlets until golden brown on both sides. Drain excess oil and serve with tonkatsu sauce",
+          "cooking_method": " Season the meat cutlets with salt and pepper. Coat the cutlets in flour, dip in beaten eggs, and coat in panko bread crumbs. Heat vegetable oil in a frying pan over medium heat. Fry the cutlets until golden brown on both sides. Drain excess oil and serve with tonkatsu sauce",
           "rating": 4.5
         },
         {
@@ -318,7 +318,7 @@
           "name": "Gyoza",
           "id": 2020,
           "ingredients": [
-            "ground pork",
+            "ground meat",
             "cabbage",
             "garlic",
             "ginger",
@@ -326,7 +326,7 @@
             "sesame oil",
             "gyoza wrappers"
           ],
-          "cooking_method": " In a bowl, mix ground pork, finely chopped cabbage, minced garlic and ginger, soy sauce, and sesame oil. Place a spoonful of the filling in the center of a gyoza wrapper. Wet the edges of the wrapper with water and fold it in half, pinching the edges to seal. Heat vegetable oil in a frying pan over medium-high heat. Place the gyoza in the pan and cook until the bottoms are golden brown. Add water to the pan and cover with a lid to steam the gyoza for 3-4 minutes. Serve with dipping sauce",
+          "cooking_method": " In a bowl, mix ground meat, finely chopped cabbage, minced garlic and ginger, soy sauce, and sesame oil. Place a spoonful of the filling in the center of a gyoza wrapper. Wet the edges of the wrapper with water and fold it in half, pinching the edges to seal. Heat vegetable oil in a frying pan over medium-high heat. Place the gyoza in the pan and cook until the bottoms are golden brown. Add water to the pan and cover with a lid to steam the gyoza for 3-4 minutes. Serve with dipping sauce",
           "rating": 4.5
         },
         {

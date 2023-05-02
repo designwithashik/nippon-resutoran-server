@@ -9,12 +9,14 @@ app.use(cors())
 app.get('/', (req, res) => {
     res.send('Welcome to Nippon Resutoran Server')
 })
+
+// all chefs route 
   
 app.get('/chefs', (req, res) => {
   res.send(chefs)
 })
 
-//single chef data
+//single chef dynamic route
 
 app.get('/chef/:id', (req, res) => {
   const id = req.params.id
