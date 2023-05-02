@@ -2,7 +2,7 @@
     {
       "name": "Satoshi Nakamura",
       "id": 1001,
-      "image": "https://example.com/images/chef-satoshi-nakamura.jpg",
+      "image": "https://images.unsplash.com/photo-1666770709661-581f2a1f6c0c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZXx8fHx8fDE2ODMwMTk1Mzg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 15,
       "number_of_recipes": 120,
       "likes": 2500,
@@ -53,11 +53,11 @@
     {
       "name": "Yui Tanaka",
       "id": 1002,
-      "image": "https://example.com/images/chef-yui-tanaka.jpg",
+      "image": "https://images.unsplash.com/photo-1525628886051-2d844e5a686b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZSxwZXJzb258fHx8fHwxNjgzMDE5ODQ4&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 10,
       "number_of_recipes": 90,
       "likes": 1500,
-      "bio": "Chef Yui Tanaka brings a fresh perspective to traditional Japanese cuisine, infusing her dishes with modern techniques and bold flavors. With 10 years of experience in top kitchens across Japan and Europe, she is a rising star in the culinary world and a beloved member of our team.",
+      "bio": "Chef Yui Tanaka brings a fresh perspective to traditional Japanese cuisine, infusing his dishes with modern techniques and bold flavors. With 10 years of experience in top kitchens across Japan and Europe, he is a rising star in the culinary world and a beloved member of our team.",
       "recipes": [
         {
           "name": "Miso Soup",
@@ -104,7 +104,7 @@
     {
       "name": "Hiroshi Yamamoto",
       "id": 1003,
-      "image": "https://example.com/images/chef-hiroshi-yamamoto.jpg",
+      "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZSxwZXJzb258fHx8fHwxNjgzMDE5Nzg1&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 20,
       "number_of_recipes": 150,
       "likes": 3000,
@@ -153,13 +153,13 @@
       
     },
     {
-      "name": "Ayumi Sato",
+      "name": "Azuma Sato",
       "id": 1004,
-      "image": "https://example.com/images/chef-ayumi-sato.jpg",
+      "image": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZXx8fHx8fDE2ODMwMTk2OTE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 8,
       "number_of_recipes": 80,
       "likes": 1200,
-      "bio": "Chef Ayumi Sato is a rising star in the world of Japanese cuisine, with a passion for bold flavors and playful presentations. With 8 years of experience in top restaurants in Japan and the United States, she brings a unique perspective to our menu and delights diners with her innovative creations.",
+      "bio": "Chef Ayumi Sato is a rising star in the world of Japanese cuisine, with a passion for bold flavors and playful presentations. With 8 years of experience in top restaurants in Japan and the United States, he brings a unique perspective to our menu and delights diners with his innovative creations.",
       "recipes": [
         {
           "name": "Okonomiyaki",
@@ -206,7 +206,7 @@
     {
       "name": "David Takahashi",
       "id": 1005,
-      "image": "https://example.com/images/chef-david-takahashi.jpg",
+      "image": "https://images.unsplash.com/photo-1669707569583-8d4c8051130a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZXx8fHx8fDE2ODMwMTk2MDQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 12,
       "number_of_recipes": 100,
       "likes": 2000,
@@ -257,11 +257,11 @@
     {
       "name": "Olivia Nakamura",
       "id": 1006,
-      "image": "https://example.com/images/chef-olivia-nakamura.jpg",
+      "image": "https://images.unsplash.com/photo-1564632302631-c3670e71f579?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hlZixqYXBhbmVzZSxwZXJzb258fHx8fHwxNjgzMDE5ODQ0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 9,
       "number_of_recipes": 70,
       "likes": 1400,
-      "bio": "Olivia Nakamura brings a fresh perspective to traditional Japanese cuisine, infusing her dishes with bold flavors and creative presentations. With 9 years of experience in top restaurants in Japan and the United States, she is a rising star in the culinary world and a valuable member of our team.",
+      "bio": "Olivia Nakamura brings a fresh perspective to traditional Japanese cuisine, infusing his dishes with bold flavors and creative presentations. With 9 years of experience in top restaurants in Japan and the United States, he is a rising star in the culinary world and a valuable member of our team.",
       "recipes": [
         {
           "name": "Tempura",
@@ -308,7 +308,7 @@
     {
       "name": "Michael Ishikawa",
       "id": 1007,
-      "image": "https://example.com/images/chef-michael-ishikawa.jpg",
+      "image": "https://images.unsplash.com/photo-1576244338864-60050ed0b19b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFjZSxqYXBhbmVzZXx8fHx8fDE2ODMwMTk0MzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600",
       "years_of_experience": 15,
       "number_of_recipes": 120,
       "likes": 2200,
