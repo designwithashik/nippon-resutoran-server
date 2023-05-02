@@ -7,7 +7,7 @@ const chefs = require('./data/chefs.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Ohayo!')
+    res.send('Welcome to Nippon Resutoran Server')
 })
   
 app.get('/chefs', (req, res) => {
